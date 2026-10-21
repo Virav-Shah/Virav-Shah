@@ -19,22 +19,13 @@
 
 ## About me
 
-I'm a **B.Tech Bioengineering student at IIT Mandi** with a minor in **Data Science (Intelligent Systems)**. I enjoy turning research ideas into usable systems — from retrieval-augmented applications and local AI agents to medical imaging models and explainable financial forecasting.
+I'm a **B.Tech Bioengineering student at IIT Mandi** with a minor in **Data Science (Intelligent Systems)**. Most of my time goes into understanding how AI can be made genuinely useful — not just by building models, but by turning them into systems that people can actually use.
 
-- 🔭 Currently exploring **RAG evaluation, agentic workflows, medical AI, and risk modelling**
-- 🧠 Interested in systems that are **useful, measurable, interpretable, and deployable**
-- 🧪 Research interests: **deep learning for medicine, multimodal learning, semantic search, and trustworthy AI**
-- 🤝 Open to **research collaborations, internships, and ambitious hackathon teams**
-- 🎤 Outside code: Head of Management & Communications at **TEDx IIT Mandi**
+I enjoy working on problems at the intersection of **medicine, science, and finance**. That has led me to build retrieval-augmented applications, local AI agents, medical imaging models, and explainable financial risk tools. I particularly like the process of taking an idea from research or a hackathon prompt, figuring out what makes it work, and then building a practical version of it.
 
-## What I build
+Outside of technical work, I'm the Head of Management & Communications at **TEDx IIT Mandi**. I also enjoy working with student teams, participating in hackathons, and learning from projects that sit outside my usual comfort zone.
 
-| Focus | Things I work with |
-|---|---|
-| **AI & Retrieval** | RAG, semantic search, embeddings, Sentence-Transformers, Qdrant, Neo4j |
-| **Agents & LLMs** | LangChain, LangGraph, Gemini, Ollama, local open-source models |
-| **ML & Research** | PyTorch, 3D medical imaging, image registration, LightGBM, SHAP |
-| **Product & Deployment** | Python, SQL, FastAPI, React, Streamlit, Docker |
+At the moment, I'm especially interested in **RAG evaluation, agentic workflows, medical AI, multimodal learning, and trustworthy machine learning**. I'm always happy to connect with people working on interesting research, products, or ambitious ideas.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,docker,git,postgres,linux" alt="Python, PyTorch, scikit-learn, FastAPI, React, Docker, Git, PostgreSQL, Linux">
@@ -93,10 +84,6 @@ Explainable quantile forecasting for **95% and 99% risk**, with portfolio analyt
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Virav-Shah&theme=github-dark-blue&hide_border=true" alt="Virav's GitHub streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Virav-Shah&theme=github-compact&hide_border=true&area=true" alt="Virav's contribution graph">
 </div>
 
 ## Let's connect
