@@ -78,8 +78,8 @@ Explainable quantile forecasting for **95% and 99% risk**, with portfolio analyt
 ## GitHub activity
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Virav-Shah&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Virav's GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Virav-Shah&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Virav's top languages">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=Virav-Shah&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Virav's GitHub stats">
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Virav-Shah&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Virav's top languages">
 </div>
 
 <div align="center">
