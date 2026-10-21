@@ -2,7 +2,7 @@
 
 # Hi, I'm Virav Shah 👋
 
-### Bioengineering student building practical AI for science, medicine, and finance
+### Passionate Developer | AI Enthusiast | Problem Solver
 
 <p>
   <a href="https://www.linkedin.com/in/virav-shah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -11,21 +11,23 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Virav-Shah&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Virav-Shah&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/Virav-Shah?label=Followers&style=flat-square&color=0e75b6" alt="GitHub followers">
 </p>
 
 </div>
 
-## About me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Bioengineering student at IIT Mandi** with a minor in **Data Science (Intelligent Systems)**. Most of my time goes into understanding how AI can be made genuinely useful — not just by building models, but by turning them into systems that people can actually use.
+🎓 Student at **IIT Mandi**, pursuing a **B.Tech in Bioengineering** with a minor in **Data Science (Intelligent Systems)**.
 
-I enjoy working on problems at the intersection of **medicine, science, and finance**. That has led me to build retrieval-augmented applications, local AI agents, medical imaging models, and explainable financial risk tools. I particularly like the process of taking an idea from research or a hackathon prompt, figuring out what makes it work, and then building a practical version of it.
+🤖 Passionate about building practical AI solutions for **science, medicine, and finance**.
 
-Outside of technical work, I'm the Head of Management & Communications at **TEDx IIT Mandi**. I also enjoy working with student teams, participating in hackathons, and learning from projects that sit outside my usual comfort zone.
+💡 I enjoy solving challenging problems with machine learning, generative AI, retrieval-augmented systems, medical imaging, and data-driven applications.
 
-At the moment, I'm especially interested in **RAG evaluation, agentic workflows, medical AI, multimodal learning, and trustworthy machine learning**. I'm always happy to connect with people working on interesting research, products, or ambitious ideas.
+🚀 Outside of technical work, I'm the Head of Management & Communications at **TEDx IIT Mandi**. I also enjoy participating in hackathons, collaborating with student teams, and learning through hands-on projects.
+
+🌱 Currently exploring **RAG evaluation, agentic workflows, medical AI, multimodal learning, and trustworthy machine learning**.
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,docker,git,postgres,linux" alt="Python, PyTorch, scikit-learn, FastAPI, React, Docker, Git, PostgreSQL, Linux">
@@ -39,7 +41,7 @@ A full-stack research assistant for **500+ NASA bioscience papers**, combining c
 `React` `FastAPI` `Qdrant` `Neo4j` `Gemini`
 
 ### 🎙️ [Agentic AI Photo Editor](https://github.com/Virav-Shah/Agentic-AI-Photo-Editor)
-A local voice-and-text interface that converts natural-language requests into multi-step edits across **nine image tools**. Built for the Adobe product-development track at Inter IIT Tech Meet 14.0.
+A local voice-and-text interface that converts natural-language requests into multi-step edits across **nine image tools**. Built for the Adobe product-development track at Inter IIT Tech Meet 14.
 
 `Ollama` `Llama 3.2` `Gemma 3` `JavaScript`
 
